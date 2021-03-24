@@ -7,5 +7,14 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkato31/nana_bot.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/tkato31/nana_bot/issues"
+  },
+  "homepage": "https://github.com/tkato31/nana_bot#readme",
   "description": ""
 }
