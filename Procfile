@@ -1,2 +1,2 @@
 # Procfile
-web: python main.py
+web: node nanabot2.js
